@@ -83,16 +83,11 @@ I’m a passionate Flutter developer with 1+ year of hands-on experience buildin
 
 ---
 
-## 📊 GitHub Stats
-
-![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan-sarfraz&show_icons=true&theme=tokyonight)
-
----
 
 ## 📫 Let's Connect
 
 - 📧 Email: faizansarfraz.info@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/faizan-sarfraz  
+- 💼 LinkedIn: https://www.linkedin.com/in/faizan-sarfraz-3b150638b  
 - 🧑‍💻 GitHub: https://github.com/faizan-sarfraz  
 
 ---
