@@ -2,7 +2,7 @@
 
 💻 Flutter Developer | 📱 Cross-Platform Apps | ⚡ Clean Architecture Enthusiast  
 
-I’m a passionate Flutter developer with over 6 months of hands-on experience building scalable and user-friendly mobile applications. I enjoy turning ideas into real products and writing clean, maintainable code.
+I’m a passionate Flutter developer with over 1 year of hands-on experience building scalable and user-friendly mobile applications. I enjoy turning ideas into real products and writing clean, maintainable code.
 
 ---
 
