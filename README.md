@@ -21,7 +21,7 @@ I’m a passionate Flutter developer with over 1 year of hands-on experience bui
 - Flutter, Dart  
 
 ### ⚙️ State Management
-- GetX, Provider  
+- GetX, Provider , Riverpod 
 
 ### 🗄️ Backend & APIs
 - Supabase, Firebase  
